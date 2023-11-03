@@ -15,26 +15,6 @@ As implementações realiadas foram: links de navegação para sessões do site,
 -HTML
 -CSS
 
-## Contribuição 
-Para contribuir com este projeto, siga as etapas abaixo:
-
-1. Crie um fork deste repositório.
-
-2. Clone o fork para a sua máquina local.
-
-3. Crie uma nova branch para sua contribuição:
-```bash
-  git checkout -b minha-contribuicao
-```
-4. Faça suas alterações e commit:
-```bash
- git commit -m "Adiciona funcionalidade X"
-```
-5. Envie suas alterações para o GitHub:
-```bash
- git push origin minha-contribuicao
-```
-6. Abra uma solicitação de pull descrevendo suas alterações.
 
 
 ### Agradecimentos
